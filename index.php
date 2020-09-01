@@ -7,5 +7,6 @@
 
   echo $newParagrafo;
 
+  echo strlen($newParagrafo);
 
  ?>
